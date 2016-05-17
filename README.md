@@ -16,4 +16,4 @@ An animated loading bar that includes a percentage value. Settings can be change
 
 These projects were meant to be used with Arduino Uno, along with a 16-block LCD Display.
 
-<img src="http://i.imgur.com/vSSKl5k.jpg" width="400" height ="250">)
+<img src="http://i.imgur.com/vSSKl5k.jpg" width="400" height ="250">
