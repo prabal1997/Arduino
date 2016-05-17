@@ -6,6 +6,8 @@ Arduino programs to display formatted text, special symbols, and a loading bar o
 Text inputted into Arduino serial will be printed onto the LCD Screen.
 Printing special characters like a tick, cross, smiley face, and sad face is also permitted using appropriate commands.
 
+![Sample Image](http://i.imgur.com/EDJbX0i.jpg)
+
 ## Loading Bar
 
 An animated loading bar that includes a percentage value. Settings can be changed in the programming file to change the properties of the animation.
@@ -13,3 +15,5 @@ An animated loading bar that includes a percentage value. Settings can be change
 # Compatibility
 
 These projects were meant to be used with Arduino Uno, along with a 16-block LCD Display.
+
+<img src="http://i.imgur.com/vSSKl5k.jpg" width="400" height ="250">)
